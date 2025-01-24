@@ -1,25 +1,18 @@
-2025-01-24 20:53:05,468 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2025-01-24 20:53:05,720 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2025-01-24 20:53:05,753 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2025-01-24 20:53:05,808 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2025-01-24 20:53:07,461 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
-2025-01-24 20:54:55,194 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2025-01-24 20:54:55,422 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2025-01-24 20:54:55,432 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2025-01-24 20:54:55,458 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2025-01-24 20:54:56,062 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
-2025-01-24 20:57:45,286 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2025-01-24 20:57:45,538 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2025-01-24 20:57:45,549 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2025-01-24 20:57:45,573 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2025-01-24 20:57:46,215 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
-2025-01-24 20:58:35,395 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2025-01-24 20:58:35,623 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2025-01-24 20:58:35,633 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2025-01-24 20:58:35,661 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2025-01-24 20:58:36,232 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
-2025-01-24 20:58:55,003 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2025-01-24 20:58:55,221 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2025-01-24 20:58:55,232 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2025-01-24 20:58:55,255 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2025-01-24 20:58:55,863 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2025-01-24 22:12:05,162 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-01-24 22:12:05,409 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-01-24 22:12:05,417 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-01-24 22:12:05,451 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-01-24 22:12:06,758 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'D:/MLOPs/ML-Pipeline/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
+2025-01-24 22:12:52,226 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-01-24 22:12:52,492 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-01-24 22:12:52,503 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-01-24 22:12:52,528 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-01-24 22:12:53,847 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'D:/MLOPs/ML-Pipeline/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
+2025-01-24 22:14:20,850 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-01-24 22:14:21,141 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-01-24 22:14:21,160 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-01-24 22:14:21,195 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-01-24 22:14:22,650 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'D:/MLOPs/ML-Pipeline/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
